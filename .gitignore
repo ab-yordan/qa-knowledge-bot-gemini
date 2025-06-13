@@ -7,7 +7,7 @@ __pycache__/
 env/
 venv/
 venv_bot/
-*.env # Penting: untuk file .env Anda
+*.env
 .env
 
 # Editor/IDE
@@ -25,10 +25,10 @@ logs/
 *.db
 
 # Docker
-.dockerignore # Jika ingin file ini sendiri tidak dilacak
+.dockerignore
 
 # Google Drive specific files (VERY IMPORTANT!)
-config/.env     # Pastikan ini sudah diabaikan
+config/.env
 config/token.json
 config/credentials.json
 
