@@ -2,6 +2,8 @@ QA Knowledge Bot with Google Gemini & Streamlit
 ===============================================
 This project is an internal Question Answering (QA) bot built using Google Gemini's large language model (LLM), the LangChain framework, and Streamlit for the graphical user interface (GUI). The bot is designed to answer specific questions based on knowledge documents loaded from a specified Google Drive folder, making it an intelligent assistant for your QA team.
 
+![image](https://github.com/user-attachments/assets/10632587-c7d5-44d9-8625-1e894b4c4754)
+
 Prerequisites
 -------------
 Before getting started, make sure you have the following:
