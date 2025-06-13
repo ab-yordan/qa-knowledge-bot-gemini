@@ -207,3 +207,7 @@ Usage
 
 Once the Streamlit application is running (either locally or in Docker), open `http://localhost:8501` in your _web browser_. You will see a chat interface where you can ask questions related to the documents in your Google Drive folder.
 
+Sample Data
+-----
+
+This project includes a `data/` folder containing sample QA documents that can be used as dummy data for testing purposes. You can upload these documents to your designated Google Drive folder (`GOOGLE_DRIVE_QA_FOLDER_ID`) to quickly get started with the bot's knowledge base.
