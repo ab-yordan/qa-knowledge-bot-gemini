@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv_bot/
+*.env # Penting: untuk file .env Anda
+.env
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Database
+*.sqlite3
+*.db
+
+# Docker
+.dockerignore # Jika ingin file ini sendiri tidak dilacak
+
+# Google Drive specific files (VERY IMPORTANT!)
+config/.env     # Pastikan ini sudah diabaikan
+config/token.json
+config/credentials.json
+
+# Any other temporary files
+*.tmp
+*.swp
+
+

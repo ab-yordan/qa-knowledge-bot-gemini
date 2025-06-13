@@ -1,0 +1,13 @@
+# .dockerignore
+.git/
+.gitignore
+.venv/             
+venv_bot/          
+__pycache__/       
+*.pyc              
+*.log              
+data/              
+utils/
+config/.env
+config/credentials.json
+config/token.json
